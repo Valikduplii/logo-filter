@@ -1026,7 +1026,7 @@ body.touch .arrow {
    display: none;
    position: absolute;
    left: 260px;
-   width: 280px;
+   width: 264px;
    min-height: 100%;
    top: 0;
    padding: 20px 0;
@@ -1035,7 +1035,8 @@ body.touch .arrow {
    z-index: 3;
 }
 nav ul li {
-   padding: 20px;
+   width: 260px;
+   padding: 15px 25px;
 }
 nav ul li:hover {
    background-color: rgba(9, 132, 148, 1);
